@@ -6,7 +6,7 @@ import "./main.css"
 
 export default function App() {
     return(
-        <div>
+        <div className="flex">
             <Header />
             <Meme />
         </div>

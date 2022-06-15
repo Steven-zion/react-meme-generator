@@ -7,6 +7,11 @@
 body{
     font-family: 'Karla' Arial,sans-serif;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .main{
     padding: 36px;
 }
